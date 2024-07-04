@@ -1,3 +1,7 @@
+#Gym==0.25.2
+#Keras==2.15.0
+#Keras-rl2==1.0.5
+
 import gym
 import numpy as np
 
